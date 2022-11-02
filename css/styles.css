@@ -328,6 +328,8 @@ body {
 .overlay {
   max-width: 1600px;
   height: 600px;
+  margin-left: auto;
+  margin-right: auto;
   background-image: linear-gradient(
     to right,
     #2F303A66 0%,
