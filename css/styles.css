@@ -336,6 +336,7 @@ body {
     #2F303A66 100%
   ),
   url("../images/img-hero.jpg");
+  background-position: center;
 }
 
 .content-hero {
