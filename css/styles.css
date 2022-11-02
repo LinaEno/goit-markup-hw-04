@@ -267,7 +267,6 @@ body {
 .title-footer {
   margin: 0;
   padding: 0;
-  margin-top: 5px;
   margin-bottom: 20px;
   font-weight: 700;
   line-height: 1.1;
@@ -311,6 +310,7 @@ body {
 
 .footer-cont {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-social{
